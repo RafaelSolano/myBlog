@@ -1,0 +1,23 @@
+:root{
+  --color-main : #22272E;
+  --color-second: #070707;
+  --color-light:#22272E;
+  --color-font: #1C2128;
+
+}
+
+body{
+  background-color: var(--color-main);
+
+  height: 100vh;
+  
+}
+#link{
+}
+.carousel-item img{
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: 0 1px;
+  
+}
